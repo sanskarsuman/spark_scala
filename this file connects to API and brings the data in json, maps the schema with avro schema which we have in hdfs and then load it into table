@@ -1,0 +1,2 @@
+# spark_scala
+java.lang.RuntimeException: java.lang.Long is not a valid external type for schema of timestamp
